@@ -464,10 +464,6 @@ p {
         overflow-x: hidden;
     }
 
-    #judultentang {
-        width: 30%;
-    }
-
     #hamburger {
         display: flex;
         flex-direction: column;
