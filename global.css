@@ -464,6 +464,10 @@ p {
         overflow-x: hidden;
     }
 
+    #judultentang {
+        width: 100%;
+    }
+
     #hamburger {
         display: flex;
         flex-direction: column;
@@ -531,12 +535,8 @@ p {
     }
 
     .animasingetik {
-        white-space: normal;
-        overflow: visible;
-        animation: none;
-        border-right: none;
-        width: auto;
-    }
+        width: 100%;
+    }           
 
     #isitentang {
         display: block;
