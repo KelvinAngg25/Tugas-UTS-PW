@@ -460,8 +460,11 @@ p {
     }
 }
 
+@media (max-width: 1300px) {
+    body {
+        overflow-x: hidden;
+    }
 
-@media (max-width : 1265px) {
     #hamburger {
         display: flex;
         flex-direction: column;
@@ -509,24 +512,6 @@ p {
     .itemkategori, .kategoridipilih, #tabelsearch {
         display: inline-block;
         text-align : center;
-    }
-
-    #gambarkartun {
-        margin-left: 100px;
-    }
-}
-
-@media (max-width: 768px) {
-    body {
-        overflow-x: hidden;
-    }
-
-    .animasingetik {
-        white-space: normal;
-        overflow: visible;
-        animation: none;
-        border-right: none;
-        width: 100%;
     }
 
     #gambarkartun {
