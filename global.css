@@ -520,17 +520,8 @@ p {
         overflow-x: hidden;
     }
 
-    @keyframes ngetik {
-        0% { width: 100%; }
-        100% { width: 100%; }
-    }
-
-    .judultentang {
-        width: 100%;
-    }
-
-    .animasingetik {
-        width: 100%;
+    h1 {
+        font-size: 22px;
     }
 
     #gambarkartun {
