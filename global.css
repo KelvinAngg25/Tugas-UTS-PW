@@ -520,6 +520,11 @@ p {
         overflow-x: hidden;
     }
 
+    @keyframes ngetik {
+        0% { width: 100%; }
+        100% { width: 100%; }
+    }
+
     .judultentang {
         width: 100%;
     }
