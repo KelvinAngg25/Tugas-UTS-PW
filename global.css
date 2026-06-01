@@ -536,6 +536,16 @@ p {
         overflow-x: hidden;
     }
 
+    #halaman {
+        overflow-x: hidden;
+        width: 100%;
+    }
+    
+    #halamanutama {
+        overflow-x: hidden;
+        width: 100%;
+    }
+
     h1 {
         font-size: 40px;
     }
@@ -573,7 +583,7 @@ p {
         width: 90%;
         display: block;
     }
-    
+
     #tentang {
         overflow: hidden;
     }
