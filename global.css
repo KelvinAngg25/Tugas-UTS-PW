@@ -513,6 +513,8 @@ p {
     #gambarkartun {
         margin-left: 100px;
     }
+
+    
 }
 
 @media (max-width: 768px) {
@@ -521,7 +523,19 @@ p {
     }
 
     h1 {
-        font-size: 22px;
+        font-size: 40px;
+    }
+
+    h2 {
+        font-size : 30px;
+    }
+
+    h3 {
+        font-size : 20px;
+    }
+
+    p {
+        font-size: 12px;
     }
 
     #gambarkartun {
@@ -537,6 +551,7 @@ p {
     }
 
     .judul {
+        overflow-x: hidden;
         margin-top: -50px;
     }
 
