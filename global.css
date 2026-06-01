@@ -677,9 +677,42 @@ p {
         margin-bottom: -50px;
     }
 
+    #karya {
+        padding-top: 50px;
+    }
+
     .isikarya {
         width: 95%;
         display: block;
+    }
+
+    .itemsekolah h2 {
+        font-size : 27px;
+    }
+
+    .itemsekolah h3 {
+        font-size : 20px;
+    }
+
+    .itemsekolah p {
+        font-size : 12px;
+        margin-bottom: 15px;
+    }
+
+    .isikarya h1 {
+        font-size : 25px;
+    }
+
+    .isikarya h2 {
+        font-size : 20px;
+    }
+
+    .isikarya h3 {
+        font-size : 15px;
+    }
+
+    .isikarya p {
+        font-size : 12px;
     }
 
     #kontak {
@@ -690,6 +723,10 @@ p {
         text-align : center;
         align-items: center;
         justify-content: center;
+    }
+
+    #judulkeahlian {
+        margin-top: 50px;
     }
 
     .isitentangkotak:hover {

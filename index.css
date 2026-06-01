@@ -111,9 +111,16 @@ textarea {
     color: #E0E0E0;
 }
 
+#judulkeahlian{
+    animation: jump-out 3s alternate infinite ease-in-out;
+}
+
 #keahlian {
     margin-bottom: 100px;
 }
+
+
+
 #isisertifikat1 {
     justify-content: center;
     align-items: center;
@@ -227,7 +234,7 @@ textarea {
     text-decoration : none;
     cursor: pointer;
     font-size : 50px;
-    position: relative;
+    position: fixed;
     bottom: 100px;
     right: 30px;
     color: orange;
@@ -239,7 +246,7 @@ textarea {
     text-decoration : none;
     cursor: pointer;
     font-size : 50px;
-    position: relative;
+    position: fixed;
     bottom: 101px;
     right: 30px;
     color: cyan;
@@ -253,7 +260,7 @@ textarea {
     text-align : center;
     align-items: center;
     cursor: pointer;
-    position: relative;
+    position: fixed;
     bottom: 30px;
     right: 17px;
     background-color: #F48037;
@@ -269,7 +276,7 @@ textarea {
     text-align : center;
     align-items: center;
     cursor: pointer;
-    position: relative;
+    position: fixed;
     bottom: 30px;
     right: 17px;
     background-color: cyan;
