@@ -415,11 +415,20 @@ p {
 }
 
 @media (max-width : 1400px) {
+    #gambarkartun img {
+        width: 90%;
+    }
+
+    #sertifikatseminar img {
+        width: 90%;
+    }
+
     #isisertifikat1 {
         gap: 10px;
         flex-direction: column;
         align-items: center;
     }
+
     #isisertifikat2, .itemserti {
         margin-bottom: 20px;
         text-align : center;
@@ -563,6 +572,10 @@ p {
         gap: 0;
         width: 90%;
         display: block;
+    }
+    
+    #tentang {
+        overflow: hidden;
     }
 
     .item {

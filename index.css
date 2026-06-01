@@ -234,7 +234,7 @@ textarea {
     text-decoration : none;
     cursor: pointer;
     font-size : 50px;
-    position: fixed;
+    position: relative;
     bottom: 100px;
     right: 30px;
     color: orange;
@@ -260,7 +260,7 @@ textarea {
     text-align : center;
     align-items: center;
     cursor: pointer;
-    position: fixed;
+    position: relative;
     bottom: 30px;
     right: 17px;
     background-color: #F48037;
