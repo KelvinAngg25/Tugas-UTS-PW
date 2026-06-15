@@ -7,8 +7,9 @@
 }
 
 @keyframes ngetik {
-  0% { width: 0; }
-  100% { width: 100%;}
+    0% { width: 0; border-right: 3px solid white;}
+    90% { width: 100%; border-right: 3px solid white;}
+    100% { width: 100%; border-right: none;}
 }
 
 @keyframes bounce {
@@ -55,10 +56,9 @@ p {
 }
 
 .animasingetik {
-    border-right: 3px solid white;
     overflow: hidden;
     white-space: nowrap;
-    animation: ngetik 3s infinite alternate ease-in-out;
+    animation: ngetik 3s alternate ease-in-out;
 }
 
 .tentangkontak {

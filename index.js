@@ -187,8 +187,4 @@ function toggleMenu() {
     menu.classList.toggle("aktif");
 }
 
-
-
-
-
 filter("All");
